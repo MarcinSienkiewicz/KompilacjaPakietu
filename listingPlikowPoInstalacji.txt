@@ -1,3 +1,6 @@
+# rezultat polecenia:
+# sudo find / -name "*[mM]agick*" > listingPlikowPoInstalacji.txt
+
 /var/lib/app-info/icons/debian-bullseye-main/64x64/imagemagick-6.q16_display-im6.q16.png
 /var/lib/app-info/icons/debian-bullseye-main/64x64/imagemagick-6.q16hdri_display-im6.q16hdri.png
 /var/lib/app-info/icons/debian-bullseye-main/48x48/imagemagick-6.q16_display-im6.q16.png
